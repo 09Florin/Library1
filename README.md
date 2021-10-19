@@ -4,7 +4,7 @@ Library project for the 1st CS year
 
 This is a poorly project for library management I had to create for the Alghoritms Design course in my first academic year of Automatics, Computers and Electronics Faculty of University of Craiova.
 
-                                                       Problem’s statements
+                                                     Problem’s statements
 
 
    Developing a software for library management. The library has a set of books, each one with an unique title and a set of one or more authors. An author can co-author one or more books. An author has an unique pair containing his/her given name and family name.
